@@ -1,11 +1,9 @@
-<img src="https://i.ibb.co/2M984yL/2.png" alt="2" border="0" />
-
 <a href="https://www.linkedin.com/in/leonardo-lindroth/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-CDCDCD?style=flat&logo=linkedin&logoColor=black">
+  <img src="https://img.shields.io/badge/-LinkedIn-3462A2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:leolindroth14@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-CDCDCD?style=flat&logo=gmail&logoColor=black">
+  <img src="https://img.shields.io/badge/-Gmail-3462A2?style=flat&logo=gmail&logoColor=white">
 </a>
   
 <br>
