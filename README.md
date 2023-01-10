@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/2M984yL/2.png" alt="2" border="0" />
+
 <a href="https://www.linkedin.com/in/leonardo-lindroth/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-CDCDCD?style=flat&logo=linkedin&logoColor=black">
 </a>
